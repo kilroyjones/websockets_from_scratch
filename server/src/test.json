@@ -1,0 +1,12 @@
+    { iter: SplitInclusive { 0: SplitInternal { start: 0, end: 1024, matcher:
+    CharSearcher { haystack: "GET / HTTP/1.1\r\nHost:
+    localhost:8080\r\nConnection: Upgrade\r\nPragma: no-cache\r\nCache-Control:
+    no-cache\r\nUpgrade: websocket\r\nOrigin:
+    http://localhost:8000\r\nSec-WebSocket-Version: 13\r\nUser-Agent:
+    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+    Chrome/125.0.0.0 Safari/537.36\r\nAccept-Encoding: gzip, deflate, br,
+    zstd\r\nAccept-Language:
+    en-US,en;q=0.9,zh-TW;q=0.8,zh-CN;q=0.7,zh;q=0.6\r\nCookie:
+    sb-auth-token=%5B%22eyJhbGciOiJIUzI1NiIsImtpZCI6Im42dEQrOW1UQUNvWFR0NzgiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzEwMjQ1NDc1LCJpYXQiOjE3MTAyNDE4NzUsImlzcyI6Imh0dHBzOi8vYWlxYnZydWt1dXlmYm1ubHp0b2suc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6ImY1NjFhMWE5LTUxY2QtNGExYi04MzVmLTI5NjJkZjNhMjI4YSIsImVtYWlsIjoidHNiYWNoQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZ29vZ2xlIiwicHJvdmlkZXJzIjpbImdvb2dsZSJdfSwidXNlcl9tZXRhZGF0YSI6eyJhdmF0YXJfdXJsIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTG1sYzBuZmh6cklCc0NLSkEyM0Y4bW1rR0M5S1lSaVlnU25MMkpUVndacEVNPXM5Ni1jIiwiZW1haWwiOi",
+    finger: 0, finger_back: 1024, needle: '\n', utf8_size: 1, utf8_encoded: [10,
+    0, 0, 0] }, allow_trailing_empty: false, finished: false } } }
